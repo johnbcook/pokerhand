@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokerHandRank", "PokerHandRank\PokerHandRank.csproj", "{809E1466-A3F4-4829-868B-DE7C2F07C07E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{809E1466-A3F4-4829-868B-DE7C2F07C07E}.Debug|x86.ActiveCfg = Debug|x86
+		{809E1466-A3F4-4829-868B-DE7C2F07C07E}.Debug|x86.Build.0 = Debug|x86
+		{809E1466-A3F4-4829-868B-DE7C2F07C07E}.Release|x86.ActiveCfg = Release|x86
+		{809E1466-A3F4-4829-868B-DE7C2F07C07E}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

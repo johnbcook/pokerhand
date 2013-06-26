@@ -1,0 +1,11 @@
+C:\Users\Jack Straw\AppData\Local\Temporary Projects\PokerHandRank\bin\Debug\PokerHandRank.exe
+C:\Users\Jack Straw\AppData\Local\Temporary Projects\PokerHandRank\bin\Debug\PokerHandRank.pdb
+C:\Users\Jack Straw\AppData\Local\Temporary Projects\PokerHandRank\obj\x86\Debug\PokerHandRank.exe
+C:\Users\Jack Straw\AppData\Local\Temporary Projects\PokerHandRank\obj\x86\Debug\PokerHandRank.pdb
+C:\Users\Jack Straw\documents\visual studio 2010\Projects\PokerHandRank\PokerHandRank\obj\x86\Debug\PokerHandRank.exe
+C:\Users\Jack Straw\documents\visual studio 2010\Projects\PokerHandRank\PokerHandRank\obj\x86\Debug\PokerHandRank.pdb
+C:\Users\Jack Straw\documents\visual studio 2010\Projects\PokerHandRank\PokerHandRank\bin\Debug\PokerHandRank.exe
+C:\Users\Jack Straw\documents\visual studio 2010\Projects\PokerHandRank\PokerHandRank\bin\Debug\PokerHandRank.pdb
+C:\Users\Jack Straw\documents\visual studio 2010\Projects\PokerHandRank\PokerHandRank\obj\x86\Debug\PokerHandRank.csprojResolveAssemblyReference.cache
+D:\PokerHandRank\PokerHandRank\obj\x86\Debug\PokerHandRank.exe
+D:\PokerHandRank\PokerHandRank\obj\x86\Debug\PokerHandRank.pdb
